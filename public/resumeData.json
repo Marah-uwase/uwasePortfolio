@@ -1,0 +1,58 @@
+{
+    "main": {
+      "name":"Maranatha Uwase",
+      "occupation":"Full-Stack Web Developer",
+      "description":"I like to code things from scratch, even if it seems to be quite tough for a beginner, and enjoy bringing ideas to life in the browser",
+      "image":"profilepic.jpg",
+      "contactmessage":"Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+      "email": "maranahuwase12@gmail.com",
+      "phone": "+250784043747",
+      "address":{
+        "city":"Kigali",
+        "state":"RWANDA"
+        
+      },
+      "website": "htt",
+      "social":[
+        {
+          "name":"twitter",
+          "url":"https://twitter.com/Marah_afr",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/Maranatha Uwase/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/Marah-uwase",
+          "className":"fa fa-github"
+        },
+        
+        {
+          "name":"email",
+          "url":"mailto:maranahuwase12@gmail.com?subject=The%20subject%20of%20the%20mail",
+          "className":"fa fa-envelope"
+        }
+      ]
+    },
+    "resume":{
+      "education":[
+        {
+          "school":"University of Kigali",
+          "degree":"Bachelor of Business and Information Technology",
+          "graduated":"I am graduating this Jully",
+          "description":"Attending University of Kigali i had to study some Business courses which i am going to list some of them. so in business field I undertook: Marketing, Principals of Management,Entrepreneurship, Human ressource Management, Financial Information System, STrategic Management and Business policy, Business Law and so many others. and in Information Technology i did : Database Management System, C programming, Internet Programming and Web optimization,System Analysis and Design, Software Engineering,Multimedia and Computer Graphics nad so many others"
+          
+        },
+        {
+          "school":"Intergrated polytechnics Regional Center IPRC",
+          "degree":"Electronics and Telecommunication ",
+          "graduated":"former student",
+          "description":" So in IPRC  i was required to study mainly General-Electronics, Electronic-Design, Electricity, and Telecommunication."
+        }
+      ]
+    }
+  }
+  
